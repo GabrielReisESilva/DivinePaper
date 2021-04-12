@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b362fe55879764adeaab92eb6e431f9a, type: 3}
+  m_Name: Yue
+  m_EditorClassIdentifier: 
+  strokes:
+  - start: {x: 0.56068367, y: 0.986929}
+    end: {x: 0, y: 0}
+  - start: {x: 0.68472755, y: 1}
+    end: {x: 0.9994908, y: 0.1529232}
+  - start: {x: 0.60243547, y: 0.7185815}
+    end: {x: 1, y: 0.7395451}
+  - start: {x: 0.56896996, y: 0.5039463}
+    end: {x: 0.96035266, y: 0.51426727}
+  originalCharacter: "\u6708"
+  mean: moon

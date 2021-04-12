@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b362fe55879764adeaab92eb6e431f9a, type: 3}
+  m_Name: Hua
+  m_EditorClassIdentifier: 
+  strokes:
+  - start: {x: 0, y: 0.7851892}
+    end: {x: 0.9256614, y: 0.9192126}
+  - start: {x: 0.25893527, y: 0.9516302}
+    end: {x: 0.29353374, y: 0.7293916}
+  - start: {x: 0.6110968, y: 0.99999994}
+    end: {x: 0.5215481, y: 0.737441}
+  - start: {x: 0.27364582, y: 0.63942057}
+    end: {x: 0.08833492, y: 0.31857607}
+  - start: {x: 0.21955223, y: 0.45596576}
+    end: {x: 0.2150176, y: 0}
+  - start: {x: 0.8479666, y: 0.5387656}
+    end: {x: 0.5848894, y: 0.33511403}
+  - start: {x: 0.53254527, y: 0.6214923}
+    end: {x: 1, y: 0.17262456}
+  originalCharacter: "\u82B1"
+  mean: flower
