@@ -5,8 +5,8 @@ using System;
 
 public class TextRecognition : MonoBehaviour
 {
-    private const string URL = "https://vision.googleapis.com/v1/images:annotate?key=";
-    private const string API_KEY = "AIzaSyC8bVOdtYMkQ7Kd1hUDOhsEhWzQoTfz19g";
+    private const string URL = "";
+    private const string API_KEY = "";
 
     //public int requestedWidth = 640;
     //public int requestedHeight = 480;
